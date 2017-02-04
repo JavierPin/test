@@ -1,0 +1,25 @@
+#espera, #proceso, #terminado {
+    float: left;
+    width: 250px;
+    height: 250px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #8080FF;
+}
+
+#listado{
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #8080FF;
+}
+
+article {
+    width: 80%;
+    height: 70px;
+    padding: 5px;
+    margin: 5px;
+    background-color: #FC0;
+}
